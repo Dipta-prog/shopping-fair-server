@@ -2,8 +2,8 @@
 
 Project Name: Shopping Fair
 Website : https://fresh-valley-auth.web.app
-Client: https://github.com/Porgramming-Hero-web-course/full-stack-client-Dipta-prog
-Server: https://github.com/Porgramming-Hero-web-course/full-stack-server-Dipta-prog
+Client: https://github.com/Dipta-prog/shopping-fair-client
+Server: https://github.com/Dipta-prog/shopping-fair-server
 
 
 Features-
